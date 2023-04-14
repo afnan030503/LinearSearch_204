@@ -65,7 +65,7 @@ void LinearSearch()
 
 
 
-int main()
+int main() 
 {
 
 }
